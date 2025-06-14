@@ -1,4 +1,4 @@
-# Stereo_camera (BU406m cameras)
+# Stereo camera system setup (Toshiba BU406m cameras)
 Code for the use of software synchronized Toshiba BU406m camera (64-bit build)
 
 Helps get bursts of images for 1min at 20Hz with 30min interval (can be changed depending on purpose of the study)
